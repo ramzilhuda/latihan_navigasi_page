@@ -1,6 +1,14 @@
 # latihan_navigasi_page
 
-A new Flutter project.
+Latihan untuk membuat pindah page atau screen :
+ada 3 page yang akan di buat : 
+1. Login Page
+2. Main Page
+3. Second Page
+
+Dimana Apabila sudah di tekan tombol Login Page maka akan masuk ke Main Page dan tidak bisa kembali lagi ke Login Page, Di Main page Apabila kita tekan tombol Go to Second Page maka akan menampilkan halaman Second Page, dan di halaman Second Page apabila di tekan tombol Back maka akan kembali ke halaman Main Page
+
+
 
 ## Getting Started
 
